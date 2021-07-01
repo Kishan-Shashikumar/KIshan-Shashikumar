@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KIshan-Shashikumar
+- 👀 I’m interested in ... python, c++ projects
+- 🌱 I’m currently learning ... c++
+- 💞️ I’m looking to collaborate on ... web apps and automation
