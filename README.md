@@ -1,5 +1,5 @@
 ## About me
-- 👋 Hi, I’m @KIshan-Shashikumar. I am currently working as Application enginner in IPG Automotive GmBH in Karlsruhe, Germany. 
+- 👋 Hi, I’m @Kishan-Shashikumar. I am currently working as Application enginner in IPG Automotive GmBH in Karlsruhe, Germany. 
 - 👀 I’m interested in ... python, c++ projects
 - 🌱 I’m currently learning ... c++, Python, React.js, HTML, CSS
 - 💞️ I’m looking to collaborate on ... web apps and automation.
